@@ -1,6 +1,3 @@
-# pylint: disable=too-few-public-methods missing-module-docstring
-#pass  # YOUR CODE HERE
-
 import math
 class Shape():
     def __init__(self,color,name):
